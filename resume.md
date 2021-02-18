@@ -18,11 +18,11 @@ Habilidades de pensamiento crítico, toma de decisiones y resolución de problem
 
 ### Experiencia profesional
 
-#### [Asociación Cibao de Ahorros y Préstamos](https://www.acap.com.do/) - Analista Senior Desarrollador (2017 - actualidad)
+#### [Asociación Cibao de Ahorros y Préstamos](https://www.acap.com.do/) - Analista Senior Desarrollador (2018 - actualidad)
 - Gestión y trabajo en equipo para el mantenimiento de aplicativos. 
 - Consumir como crear aplicativos restful desde servidores isseries.  
 
-#### [Asociación Cibao de Ahorros y Préstamos](https://www.acap.com.do/) - Analista de desarrollo de software (2015 - 2017)
+#### [Asociación Cibao de Ahorros y Préstamos](https://www.acap.com.do/) - Analista Desarrollador (2015 - 2018)
 - desarrollo y mantenimiento de aplicativos en RPGLE.  
 - Trabajo con RPGLE y SQL embebido.   
 - Crear y dar mantenimiento a programas "Embedded SQL RPGLE"
