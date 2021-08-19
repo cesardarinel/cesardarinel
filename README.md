@@ -2,7 +2,7 @@
 - 🤖 Programmer  
 - 🔭 I’m currently working on asociacion cibao de ahorros y prestamos
 - 🌱 I’m currently learning django
-- 💬 Ask me about RPGLE,python or java 
+- 💬 Ask me about RPGLE, python or java 
 -  🎥 Movie and 📺 TV show fan
 
 ![César Darinel Ortiz](https://github-readme-stats.vercel.app/api?username=cesardarinel&show_icons=true&theme=radical)
