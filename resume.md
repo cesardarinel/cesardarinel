@@ -42,7 +42,7 @@ Habilidades de pensamiento crítico, toma de decisiones y resolución de problem
 Inglés (básico), español (nativo)
 
 ## Proyectos
-- [Sistema de recargas y pagos online](https://nemo.1bits.org/)
+- [Sistema de recargas y pagos online](https://pagosnemo.com/)
 - [Sistema de Cobro de marbetes](https://coopopular.com/)
 <!--
 ### Información adicional  
