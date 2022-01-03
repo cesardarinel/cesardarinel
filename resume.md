@@ -44,12 +44,8 @@ Inglés (básico), español (nativo)
 ## Proyectos
 - [Sistema de recargas y pagos online](https://pagosnemo.com/)
 - [Sistema de Cobro de marbetes](https://coopopular.com/)
-<!--
-### Información adicional  
-- Disponibilidad solo horario de fin de semana o tardes.  
-- También puedo trabajar desde casa  
--->
+
 ## Aficiones
-- Fútbol (soccer).  
+- caminar.  
 - Fanático de películas y programas de televisión.  
 
