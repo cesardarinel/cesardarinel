@@ -29,7 +29,7 @@ Habilidades de pensamiento crítico, toma de decisiones y resolución de problem
 
 ### [Asociación Cibao de Ahorros y Préstamos](https://www.acap.com.do/) - Analista Senior Desarrollador (2018 - actualidad)
 - Gestión y trabajo en equipo para el mantenimiento de aplicativos. 
-- Gestión y trabajo en equipo para el mantenimiento de aplicativos. 
+- Análisis, diseño, desarrollo e implementación de sistemas como tambien el mantenimiento. 
 - Consumir como crear aplicativos restful desde servidores isseries.  
 
 ### [Asociación Cibao de Ahorros y Préstamos](https://www.acap.com.do/) - Analista Desarrollador (2015 - 2018)
