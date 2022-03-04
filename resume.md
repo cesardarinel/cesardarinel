@@ -1,12 +1,12 @@
 # César Darinel Ortiz  
  E-mail: <cesardarinelortiz@gmail.com>  
  Website: [cesardarinel.com](https://www.cesardarinel.com)  
- Cédula:   402-2012454-5
- Teléfono Celular:  +1-829-654-3420 
- Estado Civil:   Casado 
- Fecha Nacimiento: 4 de mayo del 1990   
- Nacionalidad :   Dominicana 
-
+ Cédula: 402-2012454-5  
+ Teléfono Celular: +1-829-654-3420  
+ Estado Civil: Casado  
+ Fecha Nacimiento: 4 de mayo del 1990  
+ Nacionalidad: Dominicana  
+  
  Github : [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/cesardarinel?tab=followers)  
  https://github.com/cesardarinel   
  
