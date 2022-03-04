@@ -21,6 +21,7 @@ Habilidades de pensamiento crítico, toma de decisiones y resolución de problem
 
 -  Experiencia en análisis, diseño y desarrollo de sistemas en RPG/AS400 aplicando el estándar de programación con cláusulas SQL  
 -  Buena experiencia técnica en la gestión de microservicios escritos en lenguajes modernos (go, node).  
+-  Aplicativos web con framewors como spring(java) o django(python)
 -  Trabajando con servidores linux  
 -  Buen conocimiento de las nuevas tecnologías en general.  
 -  Experiencia en trabajo de equipo.  
