@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning django
 - 💬 Ask me about RPGLE, python or java 
 -  🎥 Movie and 📺 TV show fan
-
-![César Darinel Ortiz](https://github-readme-stats.vercel.app/api?username=cesardarinel&show_icons=true&theme=radical)
 #### Social
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cesardarinel)
